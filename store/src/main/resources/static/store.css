@@ -1,0 +1,383 @@
+#topContainer {
+    background-color:blueviolet;
+    height: 100%;
+}
+
+#topContainerMyProfile {
+    background-color:blueviolet;
+    height: 100%;
+}
+
+#topContainerCandidateProfilePage {
+    background-color:blueviolet;
+    height: 100%;
+}
+
+#topContainerAllCandidates {
+    background-color:blueviolet;
+    display: flex;
+    flex-flow: column;
+    height: 100%;
+}
+#topCard {
+    background-color:aquamarine;
+    height: 5rem;
+}
+
+#bottomContainer {
+    margin-top: 50rem;
+    background-color:aquamarine;
+}
+
+#bottomContainerMyProfile {
+    margin-top: 50rem;
+    background-color:aquamarine;
+}
+
+#bottomContainerCandidateProfilePage {
+    margin-top: 50rem;
+    background-color:aquamarine;
+}
+
+#topH {
+    display: block;
+    font-size: 2.5em;
+    margin-left: 9em;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+#bottomH {
+    display: block;
+    font-size: 1.6em;
+    margin-left: 10em;
+    margin-right: 0;
+    font-weight: bold;
+
+}
+
+/*logInPage*/
+#logInCard {
+    margin-top: 15rem;
+    width: 19rem;
+    margin-left: 31em;
+    height: 19rem;
+}
+
+#logInUsernameInput {
+    width: 16.8rem;
+}
+
+#logInPasswordInput {
+    width: 16.8rem;
+}
+
+#logInButton {
+    width: 7rem;
+}
+
+#logInFooter {
+    margin-top: 13rem;
+}
+
+/*createAccountPage*/
+#createAccountCard {
+    margin-top: 2rem;
+    width: 22.5rem;
+    margin-left: 49rem;
+}
+
+#createAccountH {
+    font-weight: bold;
+    text-decoration: underline;
+    margin-left: 1.25rem;
+}
+
+#setUsernameInput {
+    width: 14.688rem;
+}
+
+#setPasswordInput {
+    width: 14.688rem;
+}
+
+#confirmPasswordInput {
+    width: 14.688rem;
+}
+
+#setPhoneInput {
+    width: 14.688rem;
+}
+
+#setEmailInput {
+    width: 14.688rem;
+}
+
+#setFirstNameInput {
+    width: 14.688rem;
+}
+
+#setLastNameInput {
+    width: 14.688rem;
+}
+
+#setAgeInput {
+    width: 14.688rem;
+}
+
+#setProfessionInput {
+    width: 14.688rem;
+}
+
+#createAccountButton {
+    width: 20.25rem;
+}
+
+#createAccountFooter {
+    margin-top: 2rem;
+}
+
+/*homePage*/
+#buttonsHomeAndMyProfileCard {
+    margin-top: -54.375rem;
+    height: 0rem;
+}
+
+#homeButton {
+    width: 13rem;
+}
+
+#myProfileButton {
+    width: 13rem;
+}
+
+#dropdownMenuButton{
+    margin-top: -2.2rem;
+    margin-left: -19.35rem;
+}
+
+#candidatesTopCard {
+    margin-top: 2rem;
+    width: 37.5rem;
+    margin-left: 1rem;
+    height: 38rem;
+}
+
+#candidatesTopH {
+    font-weight: bold;
+    text-decoration: underline;
+    margin-left: 9.688rem;
+}
+
+#allCandidatesProfileButton {
+    width: 35rem;
+}
+
+#candidateRequestCard {
+    margin-top: -39.4rem;
+    margin-left: 47rem;
+    width: 30rem;
+    height: 38rem;
+}
+
+#candidateRequestH {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#bibliographyH {
+    margin-left: 3.125rem;
+    font-weight: bold;
+}
+
+#mottoH {
+    margin-left: 5rem;
+    font-weight: bold;
+}
+
+#candidateRequestButton {
+    width: 27.6rem;
+}
+
+#homeFooter {
+    margin-top: 3.8rem;
+}
+
+#cartButton {
+    margin-top: -5.2rem;
+    margin-left: 97.8rem;
+}
+
+#logInButton2 {
+    margin-top: -8.1rem;
+    margin-left: 104.7rem;
+}
+
+#registerButton2 {
+    margin-top: -11.1rem;
+    margin-left: 110.6rem;
+}
+
+#myProfileDropdown{
+    margin-top: -8.1rem;
+    margin-left: 110rem;
+}
+/*candidatePage*/
+#candidatesProfileCard {
+    margin-top: 1rem;
+    width: 37.5rem;
+    margin-left: 2.5rem;
+}
+
+#candidateProfileH {
+    margin-left: 3.438rem;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#numberOfVotesCard {
+    margin-top: -32rem;
+    width: 18.75rem;
+    margin-left: 48rem;
+}
+
+#numberOfVotesH {
+    margin-left: 2.188rem;
+}
+
+#numberOfVotesH2 {
+    margin-left: 7.5rem;
+    font-weight: bold;
+}
+
+#candidateProfileFooter {
+    margin-top: 0rem;
+}
+
+#entireCandidateProfileCard {
+    width: 78.8rem;
+    margin-top: 1rem;
+}
+
+/*myProfilePage*/
+#myProfileCard {
+    margin-top: 4.063rem;
+    background-color:aquamarine;
+    width: 37.5rem;
+    margin-left: 18.75rem;
+}
+
+#myProfileH {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#firstNameInputMyProfile {
+    width: 35.313rem;
+}
+
+#lastNameInputMyProfile {
+    width: 35.313rem;
+}
+
+#ageInputMyProfile {
+    width: 35.313rem;
+}
+
+#professionInputMyProfile {
+    width: 35.313rem;
+}
+
+#phoneNumberInputMyProfile {
+    width: 35.313rem;
+}
+
+#emailAdressInputMyProfile {
+    width: 35.313rem;
+}
+
+#applyChangesButton {
+    margin-left: 12.5rem;
+}
+
+#myProfileFooter {
+    margin-top: -1.5rem;
+}
+
+/*allCandidatesPage*/
+#allCandidatesListCard {
+    margin-top: 5rem;
+    background-color:aquamarine;
+    width: 37.5rem;
+    margin-left: 18.75rem;
+}
+
+#allCandidatesFooter {
+    margin-top: 18rem;
+}
+
+#entireAllCandidatesCard {
+    width: 78.8rem;
+    margin-top: 1rem;
+}
+
+/*shopPage*/
+#clothingButton {
+    margin-top: -10rem;
+    margin-left: 49rem;
+}
+#artworksButton {
+    margin-top: -10rem;
+    margin-left: 0rem;
+}
+#stickersButton {
+    margin-top: -10rem;
+    margin-left: 0rem;
+}
+#customItButton {
+    margin-top: -10rem;
+    margin-left: 0rem;
+}
+
+html, body
+{
+    height: 100%;
+}
+
+.active-page {
+    background-color: #add8e6; /* Bleu */
+    color: white;
+}
+
+#addProductCard {
+    margin-top: -5rem;
+}
+
+#cartButtonBadge {
+    top: 0; /* Poziționează badge-ul în partea de sus a butonului */
+    right: -0.8rem; /* Deplasare spre stânga față de marginea butonului */
+    transform: translateY(-50%); /* Ajustare pe verticală pentru alinierea centrului badge-ului */
+    font-size: 0.75rem;
+    padding: 0.3em 0.6em;
+}
+
+.small-product {
+    max-width: 300px; /* Dimensiunea totală a containerului */
+    margin: 0 auto;   /* Centrează containerul */
+}
+
+.small-product-img {
+    width: 40px;      /* Dimensiunea imaginii */
+    height: 40px;     /* Dimensiunea imaginii */
+    object-fit: cover; /* Asigură că imaginea este tăiată corespunzător */
+    border-radius: 4px; /* Colțuri rotunjite, opțional */
+}
+
+.card {
+    border: none; /* Scoate border-ul pentru un aspect minimalist */
+    box-shadow: none; /* Scoate umbra, dacă este cazul */
+}
+
+.small-text {
+    font-size: 0.9rem; /* Ajustează dimensiunea textului */
+}
